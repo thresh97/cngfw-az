@@ -1,5 +1,5 @@
 # Virtual WAN infrastructure to demo multi-region Cloud NGFW for Azure![alt text](image.jpg)
-![alt diagram](media.png)
+![alt diagram](media/diagram.png)
 
 ## Resources 
 - Create VWAN with two hubs
