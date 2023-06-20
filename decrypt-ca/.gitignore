@@ -1,0 +1,7 @@
+crl
+private
+certs
+index.txt
+newcerts
+serial
+*.pfx
