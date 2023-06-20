@@ -1,4 +1,5 @@
-# Virtual WAN infrastructure to demo multi-region Cloud NGFW for Azure![alt text](image.jpg)
+# Virtual WAN infrastructure to demo multi-region Cloud NGFW for Azure
+
 ![alt diagram](media/diagram.png)
 
 ## Resources 
