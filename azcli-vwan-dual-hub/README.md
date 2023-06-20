@@ -18,7 +18,8 @@
 - bash (tested with bash 3.2)
 - az (tested with 2.49.0)
 
-## Use takes about 90 minutes to deploy
+## Use
+Typically takes about 90 minutes to deploy
 1. git clone ...
 2. Edit env.sh
 3. ./01_create_vwan_with_spokes.sh
