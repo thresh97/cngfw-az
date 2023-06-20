@@ -14,8 +14,10 @@
 - az (tested with 2.49.0)
 
 # Use
-1. Edit env.sh
-2. ./cngfw-ca.sh
+1. git clone ...
+2. cd decrypt-ca
+3. Edit env.sh
+4. ./cngfw-ca.sh
 
 # Next Steps
 1. Add Managed Identity to Local Rulestack
